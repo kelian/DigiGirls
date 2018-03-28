@@ -6,11 +6,8 @@
 2. Ava Android Studio
 3. Vali "Do not import settings"
 4. Vajuta jah kui küsib "Windows Command Processor"i jaoks luba
-5. Tõmba alla projekt sellelt leheküljelt
-
-(pilt)
-
-6. Paki projekt lahti  
+5. Tõmba alla projekt sellelt leheküljelt (Clone or Download - Download ZIP)
+6. Paki projekt lahti 
   6.1. Vali "Extract All"  
   6.2. Vali kaust, kuhu projekt läheb ja vajuta "Extract"
   

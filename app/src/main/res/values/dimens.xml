@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General -->
+    <dimen name="general_padding">16dp</dimen>
+
+    <!-- Main -->
+    <dimen name="main_list_padding">8dp</dimen>
+    <dimen name="main_list_padding_bottom">70dp</dimen>
+
+    <!-- List -->
+    <dimen name="list_margin">8dp</dimen>
+    <dimen name="list_cardView_margin">8dp</dimen>
+    <dimen name="list_ikoon_suurus">60dp</dimen>
+    <dimen name="list_tekst_margin">2dp</dimen>
+    <dimen name="list_nupp_suurus">30dp</dimen>
+    <dimen name="list_nupp_tekst_suurus">20sp</dimen>
+
+</resources>

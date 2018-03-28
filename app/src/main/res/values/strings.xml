@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Habit City</string>
+
+    <!-- List -->
+    <string name="list_nupp_pluss">+</string>
+    <string name="list_nupp_miinus">-</string>
+
+    <!-- Lisa vaade -->
+    <string name="lisa_harjumus">Lisa harjumus</string>
+    <string name="lisa_harjumus_vihje">Harjumus</string>
+    <string name="lisa_harjumus_valmis">Valmis</string>
+
+    <!-- Litsentsid -->
+    <string name="litsentsid">Litsentsid</string>
+
+</resources>

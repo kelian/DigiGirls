@@ -41,7 +41,7 @@
 
 12. Vali Tools ja AVD Manager  
 13. Vali Create Virtual Device  
-14. Vali Nexus 1 ja vajuta Next
+14. Vali Nexus 4 ja vajuta Next
 15. Vali Lollipop (Api Level 22) ning vajuta Download
 16. Vali Lollipop ja vajuta Next
 17. Võta Enable Device Frame eest linnuke ära ning vajuta Finish.

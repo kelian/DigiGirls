@@ -5,7 +5,12 @@
 1. Tõmba alla Android Studio - https://developer.android.com/studio/index.html ja installi
 2. Ava Android Studio
 3. Vali "Do not import settings"
-4. Vajuta jah kui küsib "Windows Command Processor"i jaoks luba
+4. Järgi Setup Wizardit  
+  4.1. Next  
+  4.2. Install Type on Standard  
+  4.3. UI Theme IntelliJ  
+  4.4. Finish  
+  4.5. Vajuta jah kui küsib "Windows Command Processor"i jaoks luba 
 5. Tõmba alla projekt sellelt leheküljelt (Clone or Download - Download ZIP)
 6. Paki projekt lahti 
   6.1. Vali "Extract All"  
